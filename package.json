@@ -1,0 +1,34 @@
+{
+  "name": "basic-router",
+  "version": "0.0.1",
+  "description": "Basic router with filters built in, part of basicJS framework",
+  "main": "router.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node router.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lkzwieder/basicRouter.git"
+  },
+  "keywords": [
+    "router",
+    "basic",
+    "basicjs",
+    "simple",
+    "elegant",
+    "url",
+    "pushstate",
+    "popstate",
+    "html5 router",
+    "javascript router"
+  ],
+  "author": "Lucas Tettamanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkzwieder/basicRouter/issues"
+  },
+  "homepage": "https://github.com/lkzwieder/basicRouter"
+}
